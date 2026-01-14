@@ -1,0 +1,56 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+*.egg-info/
+*.egg
+*.log
+
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# -------------------------
+# Environment & Secrets
+# -------------------------
+# Your API keys live here — DO NOT COMMIT
+.env
+
+# -------------------------
+# My personal resume and detils
+/me/Greg
+
+
+# -------------------------
+# OS / Editor Files
+# -------------------------
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm / JetBrains
+.idea/
+
+# -------------------------
+# Gradio / Cache
+# -------------------------
+gradio_cached_examples/
+gradio_cache/

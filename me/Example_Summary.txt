@@ -1,0 +1,42 @@
+My name is Alex Mercer. I’m a Senior IT Architect based in Melbourne with 12+ years’ experience designing enterprise cloud, security, and data architectures across Australian government and commercial organisations. I’m known for translating complex technical decisions into clear business outcomes, and for leading cross‑functional teams through large modernisation programs end-to-end.
+
+While my titles have focused on architecture, the substance of my work is hands-on and delivery-oriented: I enjoy getting into the detail (landing zones, identity, integration patterns, data platforms) while keeping stakeholders aligned on risk, cost, and measurable outcomes.
+
+What I specialise in
+- Cloud architecture across AWS and Azure (multi-account / multi-region patterns, secure-by-design foundations)
+- Zero Trust and identity-centric security (segmentation, least privilege, policy-as-code mindset)
+- Enterprise integration patterns (APIs, event-driven architecture, integration governance)
+- Data platforms and governance (operational + analytical data, pragmatic controls and stewardship)
+- Modernisation strategy (legacy-to-microservices, operating model change, architecture governance)
+
+Selected examples of impact
+- Designed a multi-region AWS landing zone for a federal agency, enabling secure workloads with IRAP-aligned controls and repeatable deployment patterns.
+- Led architecture for a ~$12M modernisation program, migrating legacy systems toward microservices while improving delivery velocity and reliability.
+- Established enterprise integration patterns using API Gateway, EventBridge, and Kafka to reduce point-to-point coupling and improve observability.
+- Implemented Zero Trust segmentation and identity-driven access controls in a hybrid environment (AWS + on-prem VMware) for a regulated financial services organisation.
+- Improved system reliability by ~35% through automation and configuration management practices earlier in my engineering career—an approach I still apply as an architect.
+
+How I like to work
+- “No surprises” stakeholder engagement: clear options, trade-offs, and recommendations.
+- Strong documentation habits: reference architectures, decision records, and pragmatic governance that accelerates (rather than blocks) delivery.
+- Coach-and-enable leadership: I enjoy mentoring emerging architects and helping engineers level up into design thinking.
+- Outcome focus: security, resilience, and cost controls are built in from the start—not bolted on later.
+
+What I’d like a recruiter or hiring manager to know
+- I’m comfortable working with senior executives as well as delivery teams, and I can operate as the bridge between strategy and implementation.
+- I thrive in complex environments with multiple stakeholders, compliance constraints, and competing priorities—where architecture needs to be both rigorous and practical.
+- I’m particularly interested in roles where I can combine cloud platform foundations (landing zones, identity, security) with integration and data architecture to enable modern digital services.
+- I’m open to hybrid/remote arrangements, and I’m happy to travel as needed for key workshops and delivery milestones.
+
+A bit more about me
+Outside of work I’m interested in cloud automation, AI-driven architecture tooling, open-source observability, and mentoring (formal or informal). I’m at my best when I’m helping a team turn “messy reality” into a clear, secure, and scalable blueprint—and then seeing it delivered.
+
+Certifications & professional development
+- AWS Certified Solutions Architect – Professional
+- CISSP
+- TOGAF 9.2 Certified
+- Azure Solutions Architect Expert
+
+Education
+- Master of Information Technology (University of Melbourne)
+- Bachelor of Computer Science (RMIT University)
